@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @arpitjaswal
+- 👀 I’m interested in programming, data science, mathematics and anything I find interesting enough
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate
+- 📫 You can contact me on my email: iamarpitjaswal@gmail.com 
