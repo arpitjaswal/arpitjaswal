@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arpitjaswal
 - 👀 I’m interested in programming, data science, mathematics and anything I find interesting enough
-- 🌱 I’m currently learning C++, Java and DBMS.
+- 🌱 I’m currently learning C++, Java, Node.js, Android developement and SQL.
 - 💞️ I’m looking to collaborate
 - 📫 You can contact me on my email: iamarpitjaswal@gmail.com
